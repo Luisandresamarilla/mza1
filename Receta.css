@@ -1,0 +1,69 @@
+body{
+  background-image: url(peperoni.jpg);
+  background-repeat: repeat;
+
+}
+
+header{
+  border-style: dotted;
+  background-color: blue;
+  font-style: oblique;
+  color: yellow;
+
+}
+
+.seccion1{
+
+  background-color: green;
+  border-style: solid;
+  border-spacing: 5%;
+  float: left;
+  width:40%;
+
+}
+
+.seccion2{
+  border-style: groove;
+  border-color: red;
+  border-width: 20px;
+overflow: scroll;
+background-color: grey;
+padding-bottom: 5.3%;
+
+}
+
+.seccion3{
+
+  width:40%;
+  float: left;
+  font-size: 20px;
+}
+
+.seccion4{
+
+font-size: 25px;
+  text-align: center;
+
+}
+.aqui{
+    font-size: 25px;
+}
+
+.foot{
+  font-size: 30px;
+}
+
+
+
+footer{
+     position: relative;
+   left:0px;
+   bottom:30px;
+   top: 30px;
+   height:50px;
+   width:100%;
+   
+background-color: grey;
+   font-size: 20px;
+
+}
