@@ -3,7 +3,7 @@ $contacto=$_POST['nombre'];
 $email=$_POST['email'];
 $mensaje=$_POST['mensaje'];
 
-$para="info@alvearalquila.online";
+$para="flopydepapi@gmail.com";
 $asunto="Nuevo Mensaje de $nombre";
 
 $mensaje="
